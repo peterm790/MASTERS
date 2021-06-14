@@ -1,0 +1,5 @@
+*.nc
+*.zarr
+*.png
+*.jpeg
+*.pdf
